@@ -1,6 +1,6 @@
 # citas_curso_react
 PROYECTO: Administrador de Pacientes de Veterinaria.
-
+Curso: React - La Guía Completa Hooks Context Redux MERN +15 Apps
 
 # Getting Started with Create React App
 
